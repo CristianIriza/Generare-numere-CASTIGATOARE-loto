@@ -1,0 +1,1 @@
+Descriere: program de generare automata (random) a numerelor pentru jocurile din cadrul Loteriei Romane: 6/49, joker, 5/40.
